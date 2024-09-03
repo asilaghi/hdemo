@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--hdemo--asilaghi.aem.page/
+- Live: https://main--hdemo--asilaghi.aem.live/
 
 ## Installation
 
